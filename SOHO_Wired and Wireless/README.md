@@ -68,5 +68,5 @@ The network consists of two primary VLANs:
 ## Conclusion
 This SOHO network topology demonstrates key networking concepts like VLAN segmentation, DHCP configuration, and RADIUS authentication. By creating separate employee and guest networks with secure access control, it showcases effective network organization and security. The project emphasizes the importance of network segmentation and access control, providing a solid foundation in network design for real-world applications.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com) and view more projects on [GitHub](https://www.github.com).   
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/srija-chowdary-vadlamudi-82b64a276/) and view more projects on [GitHub](https://github.com/Sri-2488).   
 ---
